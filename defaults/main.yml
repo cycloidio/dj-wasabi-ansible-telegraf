@@ -1,4 +1,6 @@
 ---
+telegraf_debian_apt_key_id: 9FC2F927
+
 telegraf_enabled: True
 # defaults file for ansible-telegraf
 
